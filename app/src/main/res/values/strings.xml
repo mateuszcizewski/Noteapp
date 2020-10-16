@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Note app</string>
+    <string name="new_note">New note</string>
+    <string name="delete">Delete</string>
+    <string name="expand">Expand list for details</string>
+    <string name="specify_name">Please specify note name</string>
+
+
+</resources>
